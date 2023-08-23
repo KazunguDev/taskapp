@@ -2,15 +2,17 @@
 
 A  Flutter  app for managing your personal to-do-list, using firebase..
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot_1692764746](https://github.com/KazunguDev/taskapp/assets/88532016/8267b9b3-388f-4ad3-8807-a506d8ccab76)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1692765668](https://github.com/KazunguDev/taskapp/assets/88532016/f9a9b202-3ce1-4e82-b6c6-43e96230fdaf)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_1692765704](https://github.com/KazunguDev/taskapp/assets/88532016/f9401954-caab-4b95-9e60-64e1ab32b73e)
+
+![Screenshot_1692765729](https://github.com/KazunguDev/taskapp/assets/88532016/2314673c-b9c0-4d92-a816-8aefe49288f3)
+
+
+
